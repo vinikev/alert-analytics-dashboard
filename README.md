@@ -155,7 +155,7 @@ print('Tabelas anonimizadas com sucesso!')
 
 A estrutura escolhida foi um StarSchema que pode ser visualizada na imagem abaixo gerada pelo software _DB Schema_:
 
-![StarSchema](\images\db-schema.png)
+![StarSchema](images/db-schema.png)
 
 ### Tabelas de Dimensão
 
@@ -174,7 +174,7 @@ A estrutura escolhida foi um StarSchema que pode ser visualizada na imagem abaix
 
 # Análise de Alertas - Principais Insights
 
-![dashboard](\images\dashboard-mvp.jpg)
+![dashboard](images/dashboard-mvp.jpg)
 
 ## 1. Sazonalidade e Efetividade das Ações Corretivas
 
