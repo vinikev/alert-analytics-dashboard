@@ -174,7 +174,7 @@ A estrutura escolhida foi um StarSchema que pode ser visualizada na imagem abaix
 
 # Análise de Alertas - Principais Insights
 
-![dashboad](\images\dashboard-mvp.jpg)
+![dashboard](images/dashboard-mvp.jpg)
 
 ## 1. Sazonalidade e Efetividade das Ações Corretivas
 
